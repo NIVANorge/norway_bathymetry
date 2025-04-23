@@ -1,2 +1,3 @@
-# norway_bathymetry
-Creating national scale bathymetry and topography-bathymetry datasets
+# Norway bathymetry
+
+Code to reproject and merge various bathymeric and topographic datasets for Norway.
